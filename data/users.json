@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Jesse",
+        "age": 24,
+        "weight": 245.0,
+        "height": 74.0,
+        "sex": "Male",
+        "goal": "cut",
+        "activity_level": "light",
+        "diet": "None",
+        "favorite_foods": [
+            "pasta",
+            "pizza",
+            "gyros"
+        ],
+        "disliked_foods": [
+            "seafood",
+            "mushrooms"
+        ],
+        "restrictions": [
+            "No"
+        ],
+        "calorie_goal": 2485,
+        "protein_goal": 245,
+        "carb_goal": 221,
+        "fat_goal": 69,
+        "fiber_goal": 35
+    }
+]
